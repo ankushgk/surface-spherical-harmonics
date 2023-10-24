@@ -12,4 +12,4 @@ This is a work in progress, the author will update the repository with more deta
 [^1]: Sandberg, V. D. (1978). Tensor spherical harmonics on S 2 and S 3 as eigenvalue problems. Journal of Mathematical Physics, 19(12), 2441-2446.
 [^2]: Thorne, K. S. (1980). Multipole expansions of gravitational radiation. Reviews of Modern Physics, 52(2), 299.
 [^3]: Freeden, W., & Schreiner, M. (2022). Spherical functions of mathematical geosciences: a scalar, vectorial, and tensorial setup. Springer Nature.
-[^4}: Mathews, Jon. 2017. “Tensor Spherical Harmonics”. Graphic Arts.
+[^4]: Mathews, Jon. 2017. “Tensor Spherical Harmonics”. Graphic Arts.
